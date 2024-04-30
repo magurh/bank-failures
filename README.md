@@ -1,7 +1,7 @@
 # US Bank Failures: Are we close to a new banking crisis?
 
 
-There’ve been much news lately regarding US regional banks, which have been under heavy pressure since Silicon Valley Bank (SVB) collapsed in early March. This was followed by the failures of Signature Bank and then First Republic Bank on May 1st, which led many people to think that this might just be tip of the iceberg. 📉
+There’ve been much news lately (spring 2023) regarding US regional banks, which have been under heavy pressure since Silicon Valley Bank (SVB) collapsed in early March. This was followed by the failures of Signature Bank and then First Republic Bank on May 1st, which led many people to think that this might just be tip of the iceberg. 📉
 
 So, I was wondering whether bank failures have been somewhat common in recent history or not at all. The FDIC (Federal Deposit Insurance Corporation) has records dating back to 1934 of all the US failed banks that have been federally insured. Note that some of the largest failed banks around the 2008 crisis, like Lehman Brothers ($600 billion in assets) or Bear Sterns ($350 billion), are not included since they were not federally insured. 📚
 
